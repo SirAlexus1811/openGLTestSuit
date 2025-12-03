@@ -1,0 +1,3 @@
+/home/alex/Nextcloud/Projekte/C++Shit/openGLTestSuit/build/CMakeFiles/opengl_test.dir
+/home/alex/Nextcloud/Projekte/C++Shit/openGLTestSuit/build/CMakeFiles/edit_cache.dir
+/home/alex/Nextcloud/Projekte/C++Shit/openGLTestSuit/build/CMakeFiles/rebuild_cache.dir

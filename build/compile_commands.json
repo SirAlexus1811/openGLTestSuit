@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/alex/Nextcloud/Projekte/C++Shit/openGLTestSuit/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/opengl_test.dir/src/main.cpp.o -c /home/alex/Nextcloud/Projekte/C++Shit/openGLTestSuit/src/main.cpp",
+  "file": "/home/alex/Nextcloud/Projekte/C++Shit/openGLTestSuit/src/main.cpp",
+  "output": "CMakeFiles/opengl_test.dir/src/main.cpp.o"
+}
+]
